@@ -161,10 +161,3 @@ function throwTheDice() {
 }  
 
 throwTheDice();
-
-/* else {
-  document.getElementsByClassName("winner").style.color="blue";
-  document.getElementsByClassName("winner").innerHTML = "No Winner!"
-} */
-// alert(messageBack);
-// console.log(messageBack);
